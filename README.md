@@ -96,7 +96,7 @@ In naming variables:
 ```
 
 ### IF-THEN STATEMENTS
-	- it is similar to if-else statements in C and Java.
+- it is similar to if-else statements in C and Java.
 The general form is
 ```php
 	<any_expression>
